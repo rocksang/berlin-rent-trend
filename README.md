@@ -14,11 +14,11 @@ This project analyzes rent trends in Berlin from 2010 to 2026 using historical d
 - **Tools**: R, `tidyverse`, `sf`, `ggplot2`
 
 ## Files
-- `rent_trends_analysis.R`: The R script containing the full analysis, including data processing, calculations, and visualization.
-- `rent_trends_chart.png`: The final chart showing rent trends from 2010 to 2026.
+- `updated rent_trends_analysis.R`: The R script containing the full analysis, including data processing, calculations, and visualization.
+- `rent_trends_chart2.png`: The final chart showing rent trends from 2010 to 2026.
 
 ## Chart
-![Rent Trends Chart](rent_trends_chart.png)
+![Rent Trends Chart](rent_trends_chart2.png)
 
 ## How to Run
 1. Ensure you have R installed with the following packages: `tidyverse`, `sf`.
@@ -30,6 +30,3 @@ This project analyzes rent trends in Berlin from 2010 to 2026 using historical d
 - The data files are not included in this repository due to size constraints but can be provided upon request.
 - The chart shows a steady trend due to the consistent growth rate in historical data and the averaging across PLZ codes.
 
-## Author
-[Your Name]  
-[Your Email or LinkedIn Profile]
